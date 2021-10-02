@@ -6,6 +6,6 @@ int main()
 {
     cout << "Hello world!";
     cout << ' ' << "BB laba";
-    cout << ' ' << "I need good mark";
+    cout << ' ' << "I want a good mark";
     return 0;
 }
